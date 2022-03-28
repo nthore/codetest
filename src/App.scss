@@ -1,0 +1,25 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.jobylon {
+  background-color: #4992fc;
+  color: #fff;
+  border: none;
+}
+
+.jobylon:hover,
+.jobylon:focus {
+  background-color: #045cdb;
+  color: #fff;
+}
+
+.secondary {
+  background-color: #ff7a6d;
+  border: none;
+}
+
+.secondary:hover,
+.secondary:focus {
+  background-color: #ff7a6d;
+
+  filter: brightness(0.9);
+}
